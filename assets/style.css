@@ -131,3 +131,9 @@ svg.chart .grid{stroke:#e9ecef}svg.chart .ax{font-size:11px;fill:#495057}
 pre.mono{white-space:pre-wrap;font-size:12px;background:#f8f9fa;padding:10px;border-radius:8px}
 img.ri{height:24px;width:24px;object-fit:contain;vertical-align:middle;margin:0 2px 0 0}
 .meth{font-size:12px;columns:2 380px}.meth code{display:block;background:none;padding:0;white-space:normal}
+.vis{display:inline-block;font-size:11px;font-weight:700;padding:1px 8px;border-radius:9px;white-space:nowrap}
+.vis.on{background:#d3f9d8;color:#2b8a3e}.vis.cond{background:#fff3bf;color:#e67700}.vis.live{background:#d0ebff;color:#1864ab}
+.vis.exp{background:#f1f3f5;color:#495057}.vis.off{background:#ffe3e3;color:#c92a2a}.vis.soon{background:#e5dbff;color:#5f3dc4}
+table.shop td:nth-child(1){min-width:96px}table.shop td:nth-child(2){min-width:190px}table.shop td:nth-child(2) code{white-space:nowrap}
+table.shop td:nth-child(3),table.shop td:nth-child(4){white-space:nowrap}table.shop td:nth-child(5){min-width:170px}
+table.shop td:last-child{min-width:300px;font-size:13px}
